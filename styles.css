@@ -21,6 +21,11 @@ h1{
     font-size: 25px;
 }
 
+a h1:hover{
+    color:#F5D04E;
+    cursor:pointer;
+}
+
 button{
     background-color: #F4D04D;
     border:none;
