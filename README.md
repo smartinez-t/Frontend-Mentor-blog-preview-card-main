@@ -55,5 +55,5 @@ How to set up the footer as "fixed" even when I have the whole body centered wit
 
 ## Author
 
-- Website - [Add your name here](https://github.com/smartinez-t)
-- Frontend Mentor - [@smartinez-t]([https://www.frontendmentor.io/profile/@smartinez-t)]
+- Website - [Smartinez-t](https://github.com/smartinez-t)
+- Frontend Mentor - [@smartinez-t](https://www.frontendmentor.io/profile/@smartinez-t)
