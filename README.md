@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/images/FullPage.png)
+![Full Webpage](assets/images/FullPage.png)
 
-![](assets/images/Hover.png)
+![Hover](assets/images/Hover.png)
 
-![](assets/images/Phone.png)
+![Phone view](assets/images/Phone.png)
 
 
 ### Links
