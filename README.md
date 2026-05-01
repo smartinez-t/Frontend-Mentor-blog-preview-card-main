@@ -24,10 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
+-Full Webpage:
 ![Full Webpage](assets/images/FullPage.png)
 
+-Hover:
 ![Hover](assets/images/Hover.png)
 
+-Phone view:
 ![Phone view](assets/images/Phone.png)
 
 
