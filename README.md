@@ -30,7 +30,7 @@ Users should be able to:
 -Hover:
 ![Hover](assets/images/Hover.png)
 
--Phone view:
+-Phone view:<br>
 ![Phone view](assets/images/Phone.png)
 
 
